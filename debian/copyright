@@ -1,0 +1,39 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: types-typed-ast
+Source: https://pypi.org/project/types-typed-ast/#files
+
+Files: *
+Copyright: 2016-2017 David Fisher <ddf1991@gmail.com>
+           2016, 2018-2019 Michael Lee <michael.lee.0x2a@gmail.com>
+           2016 Ivan Levkivskyi <levkivskyi@gmail.com>
+           2016 TrueBrain <TrueBrain@users.noreply.github.com>
+           2016 Lukasz Langa <ambv@fb.com>
+           2017 Svyatoslav Ilinskiy <ilinskiy.sv@gmail.com>
+           2018 Yusuke Miyazaki <ymyzk@users.noreply.github.com>
+           2018 Michael J. Sullivan <sully@msully.net>
+           2020 Jelle Zijlstra <jelle.zijlstra@gmail.com>
+           2020 Eric Traut <eric@traut.com>
+           2020 Andrew Mitchell <32021055+mitch292@users.noreply.github.com>
+           2020 Shantanu <12621235+hauntsaninja@users.noreply.github.com>
+           2020 Jukka Lehtosalo <jukka.lehtosalo@iki.fi>
+License: Apache-2.0
+
+Files: debian/*
+Copyright: © 2021 Michael R. Crusoe <crusoe@debian.org>
+License: Apache-2.0
+
+License: Apache-2.0
+   Licensed under the Apache License, Version 2.0 (the "License");
+   you may not use this file except in compliance with the License.
+   You may obtain a copy of the License at
+ .
+       http://www.apache.org/licenses/LICENSE-2.0
+ .
+   Unless required by applicable law or agreed to in writing, software
+   distributed under the License is distributed on an "AS IS" BASIS,
+   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+   See the License for the specific language governing permissions and
+   limitations under the License.
+ .
+   On Debian systems, the full text of the Apache License, Version 2.0 can be
+   found in the file `/usr/share/common-licenses/Apache-2.0'

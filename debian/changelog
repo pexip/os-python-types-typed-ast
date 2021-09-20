@@ -1,0 +1,17 @@
+python-types-typed-ast (1.4.4-3) unstable; urgency=medium
+
+  * Architecture: all, not any
+
+ -- Michael R. Crusoe <crusoe@debian.org>  Mon, 20 Sep 2021 13:25:00 +0200
+
+python-types-typed-ast (1.4.4-2) unstable; urgency=medium
+
+  * No change rebuild for unstable.
+
+ -- Michael R. Crusoe <crusoe@debian.org>  Mon, 20 Sep 2021 13:21:23 +0200
+
+python-types-typed-ast (1.4.4-1) unstable; urgency=medium
+
+  * Initial release. (Closes: #994404)
+
+ -- Michael R. Crusoe <crusoe@debian.org>  Wed, 15 Sep 2021 17:57:27 +0200

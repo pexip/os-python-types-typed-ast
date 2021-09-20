@@ -1,0 +1,29 @@
+Source: python-types-typed-ast
+Maintainer: Debian Python Team <team+python@tracker.debian.org>
+Uploaders: Michael R. Crusoe <crusoe@debian.org>
+Section: python
+Priority: optional
+Build-Depends: debhelper-compat (= 13),
+               dh-python,
+               python3-all,
+               python3-setuptools
+Standards-Version: 4.6.0
+Vcs-Browser: https://salsa.debian.org/python-team/packages/python-types-typed-ast
+Vcs-Git: https://salsa.debian.org/python-team/packages/python-types-typed-ast
+Homepage: https://github.com/python/typeshed
+Rules-Requires-Root: no
+
+Package: python3-types-typed-ast
+Architecture: all
+Depends: python3,
+         ${python3:Depends},
+         ${misc:Depends}
+Description: Typing stubs for typed-ast
+ This is a PEP 561 type stub package for the typed-ast package. It can be
+ used by type-checking tools like mypy, PyCharm, pytype etc. to check
+ code that uses typed-ast. The source for this package can be found at
+ https://github.com/python/typeshed/tree/master/stubs/typed-ast. All
+ fixes for types and metadata should be contributed there.
+ .
+ See https://github.com/python/typeshed/blob/master/README.md for
+ more details.

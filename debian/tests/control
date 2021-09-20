@@ -1,0 +1,3 @@
+Test-Command: /usr/bin/python3 -m mypy.stubtest --ignore-missing-stub typed-ast
+Depends: @, python3-typed-ast, python3-mypy
+Restrictions: allow-stderr
