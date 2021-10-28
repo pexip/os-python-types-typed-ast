@@ -1,3 +1,9 @@
+python-types-typed-ast (1.4.4-3pexip1) pexip; urgency=medium
+
+  * Prepare Pexip packaging
+
+ -- Huw Jones <huw@pexip.com>  Thu, 28 Oct 2021 14:57:13 +0000
+
 python-types-typed-ast (1.4.4-3) unstable; urgency=medium
 
   * Architecture: all, not any
